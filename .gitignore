@@ -1,0 +1,13 @@
+# global things
+.DS_Store
+.sass-cache
+node_modules
+Gemfile.lock
+# local things that don't need to be committed
+files/
+settings.local.php
+modules/local
+services.yaml
+development.services.yml 
+settings.php
+*.sublime-workspace

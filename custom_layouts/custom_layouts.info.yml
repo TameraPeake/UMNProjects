@@ -1,0 +1,8 @@
+type: module
+name: Custom Layouts
+description: Custom responsive layouts built to work with layout builder
+package: Layout
+dependencies:
+  - layout_discovery
+core_version_requirement: ^9 || ^10
+project: 'custom_layouts'

@@ -1,0 +1,13 @@
+custom_layouts_three_column:
+  label: Test Three Column
+  category: Test
+  path: plugins/layouts
+  template: custom-three-column
+  icon: radix-bartlett.png
+  regions:
+    first:
+      label: First
+    second:
+      label: Second
+    third:
+      label: Third

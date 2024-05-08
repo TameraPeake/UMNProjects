@@ -1,0 +1,4 @@
+custom_layouts:
+  css:
+    theme:
+      css/custom_layouts.css: {}
